@@ -8,6 +8,11 @@
 If you're in a region where YouTube Music is not supported, you won't be able to use this app <strong>unless</strong> you have a proxy or VPN to connect to a YTM-supported region.
 </div>
 
+<div style="padding: 16px; margin: 16px 0; background-color: #E3F2FD; border-left: 6px solid #2196F3; border-radius: 4px;">
+<h2 style="margin: 0;"><strong>ℹ️ iOS Support</strong></h2>
+Metrolist is currently an <strong>Android-only</strong> application. There is no iOS version available at this time. iOS users looking for similar functionality may want to explore alternative YouTube Music clients available on the App Store.
+</div>
+
 <h1>Screenshots</h1>
 
 <img src="https://github.com/mostafaalagamy/Metrolist/blob/main/fastlane/metadata/android/en-US/images/screenshots/screenshot_1.png" width="30%" />
